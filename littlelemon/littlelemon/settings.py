@@ -82,8 +82,8 @@ DATABASES = {
         'NAME': 'restaurant_2',
         'HOST' : '127.0.0.1',
         'PORT' : '3306',
-        'USER' : 'resto',
-        'PASSWORD' : '123456',
+        'USER' : 'restoren',
+        'PASSWORD' : '',
     }
 }
 
